@@ -9,7 +9,7 @@
 
 <body>
 <h1 style='color:#ff0000; text-align:center; font-size:80px'>My Practice Page</h1>
-    <pHey, this is some text</p>
+    <p style='line-height:1.6'>Hey, this is some text</p>
     <p><strong style='color: #0000ff; font-side:40px'>more stuff</strong></p>
 </body>
 </html>
